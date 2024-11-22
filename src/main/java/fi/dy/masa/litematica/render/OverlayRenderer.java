@@ -79,7 +79,7 @@ public class OverlayRenderer
             0x93AA00,    // Vivid Yellowish Green
             0x593315,    // Deep Yellowish Brown
             0xF13A13,    // Vivid Reddish Orange
-            0x232C16     // Dark Olive Green
+            0x232C16     // Dark Olive Green lol
         };
 
     private final MinecraftClient mc;
